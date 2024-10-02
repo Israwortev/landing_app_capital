@@ -1,0 +1,25 @@
+img {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+.recuadro {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2em;
+  padding: 1em;
+  font-weight: 400;
+}
+
+h2 {
+  color: #14da13;
+}
+
+main {
+  text-align: center;
+  border: solid 2px #ffffff;
+  width: 70%;
+  padding: 2em;
+  border-radius: 16px;
+  background-color: #fcfdfe;
+}
